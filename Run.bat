@@ -1,0 +1,2 @@
+python Barricades.py
+pause
